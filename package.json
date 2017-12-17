@@ -1,0 +1,19 @@
+{
+  "name": "loginsignup",
+  "version": "1.0.0",
+  "description": "simple user login and signup app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchou723/loginsignup.git"
+  },
+  "author": "Kevin Chou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchou723/loginsignup/issues"
+  },
+  "homepage": "https://github.com/kevinchou723/loginsignup#readme"
+}
